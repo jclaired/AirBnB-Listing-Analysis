@@ -12,3 +12,10 @@ In this project, you will be able to learn how to:
 1. Explore and profile the data to correct any quality issues
 2. Prepare and reformat the data for visualization
 3. Visualize the data and identify key insights and recommendations
+
+# Note
+Here are the links for the 2 remaining files. (I cannot upload them here directly since its larger than 25GB.
+### Reviews_data_dictionary.csv 
+https://drive.google.com/file/d/1AsFQGouATkM-T9JQZtak9SBupZ3nKC8E/view?usp=sharing
+### Listings_data_dictionary.csv
+https://drive.google.com/file/d/1b8SwCgfA4Ehpxf1r2ovLlDQKr7oVvFiQ/view?usp=sharing
