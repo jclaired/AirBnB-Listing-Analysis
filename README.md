@@ -19,3 +19,7 @@ Here are the links for the 2 remaining files. (I cannot upload them here directl
 https://drive.google.com/file/d/1AsFQGouATkM-T9JQZtak9SBupZ3nKC8E/view?usp=sharing
 ### Listings_data_dictionary.csv
 https://drive.google.com/file/d/1b8SwCgfA4Ehpxf1r2ovLlDQKr7oVvFiQ/view?usp=sharing
+
+You can also check the final Visualization Dashboard (Canva) I created through the link below:
+https://mavenanalytics.io/project/10241
+
